@@ -18,3 +18,6 @@ This is a quiz app that uses the API Open Trivia Database. The purpose is to dem
 - form validation
 - Asynchronous API fetching
 - State variables
+- Answer checking
+- Restart option
+- Error handling
